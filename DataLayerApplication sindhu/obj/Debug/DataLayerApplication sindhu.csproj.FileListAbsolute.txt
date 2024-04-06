@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\DataLayerApplication sindhu\bin\Debug\DataLayerApplication sindhu.dll
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\DataLayerApplication sindhu\bin\Debug\DataLayerApplication sindhu.pdb
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\DataLayerApplication sindhu\obj\Debug\DataLayerApplication sindhu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\DataLayerApplication sindhu\obj\Debug\DataLayerApplication sindhu.dll
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\DataLayerApplication sindhu\obj\Debug\DataLayerApplication sindhu.pdb
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\DataLayerApplication sindhu\obj\Debug\DataLayerApplication sindhu.csproj.AssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\obj\Debug\BusinessLayerApplicationsindhu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\obj\Debug\BusinessLayerApplicationsindhu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\bin\Debug\BusinessLayerApplicationsindhu.dll
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\bin\Debug\BusinessLayerApplicationsindhu.pdb
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\bin\Debug\DataLayerApplication sindhu.dll
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\bin\Debug\DataLayerApplication sindhu.pdb
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\obj\Debug\BusinessLayerApplicationsindhu.csproj.CopyComplete
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\obj\Debug\BusinessLayerApplicationsindhu.dll
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\BusinessLayerApplicationsindhu\obj\Debug\BusinessLayerApplicationsindhu.pdb

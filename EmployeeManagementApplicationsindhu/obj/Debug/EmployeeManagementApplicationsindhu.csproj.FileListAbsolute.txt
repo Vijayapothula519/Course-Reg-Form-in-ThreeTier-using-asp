@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\EmployeeManagementApplicationsindhu\obj\Debug\EmployeeManagementApplicationsindhu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ThreeTierApplication sindhu\EmployeeManagementApplicationsindhu\obj\Debug\EmployeeManagementApplicationsindhu.csproj.CoreCompileInputs.cache
